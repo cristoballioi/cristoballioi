@@ -1,22 +1,25 @@
-## Hi there 👋
+# ¡Hola, soy Cristóbal! 👋
 
-Hello World! 
+Soy estudiante de **Ingeniería Civil Industrial** en la **Universidad de Chile**, con mucho interés en la tecnología, la automatización y el análisis de datos.
 
-I am Cristóbal Lioi
+## 👨‍💻 Sobre mí
 
-y mi segundo apellido es Avendaño
+- 📚 Actualmente me encuentro cursando mis estudios en la FCFM y aprendiendo sobre Programación Científica y Ciencia de Datos.
+- 💼 Tengo experiencia práctica trabajando en conciliación de datos (como en mi práctica en ENEX S.A.).
+- 🐍 Me interesa mucho la programación en **Python**, la automatización de tareas y la gestión de proyectos.
+- 📈 También tengo un gran interés por las finanzas personales, estrategias de inversión y el análisis estadístico (incluyendo el análisis deportivo).
+- ⚽ En mi tiempo libre me gusta jugar futbol.
 
-<!--
-**cristoballioi/cristoballioi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Herramientas y Tecnologías
 
-Here are some ideas to get you started:
+- **Lenguajes:** Python
+- **Herramientas de Datos:** Jupyter Notebooks, Markdown
+- **Control de Versiones:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Cómo contactarme
+
+- **Email:** cristobal.lioi@ug.uchile.cl
+- **LinkedIn:** https://www.linkedin.com/in/cristobal-lioi-626556324/
+
+---
+⭐️ *De estudiante a futuro Ingeniero Civil Industrial.*
